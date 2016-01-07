@@ -1,0 +1,1 @@
+$%$cust_id%$%password%$%c_req_id%$%item_id%$%ship_meth%$%ship_add$%$

@@ -1,0 +1,1 @@
+$%$cust_id%$%order_id%$%order_conf%$%date$%$
